@@ -1,4 +1,5 @@
-Pizza
-Chicken strips
-Tacos
-Spaghetti
+# Favorite Foods
+* Pizza
+* Chicken strips
+* Tacos
+* Spaghetti
